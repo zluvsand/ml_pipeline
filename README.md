@@ -10,5 +10,5 @@ This repository contains small example use-case of ML Pipeline using Scikit-Lear
 - [ ] **Custom transformers**
     * [Two ways to create custom transformers with Scikit-learn](ADDHYPERLINK)
 
-* [ ] **Feature Selection**
+* [ ] **Feature selection**
     * [Feature Selection in Scikit-learn](https://towardsdatascience.com/feature-selection-in-scikit-learn-dc005dcf38b7)
