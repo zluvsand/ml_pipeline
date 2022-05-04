@@ -1,5 +1,5 @@
 # Machine Learning Pipeline with Scikit-learn 💼
-This repository contains small example use-case of ML Pipeline using Scikit-Learn. It was created to complement this medium blog post: [From ML Model to ML Pipeline](ADDHYPERLINK). 
+This repository contains small example use-case of ML Pipeline using Scikit-Learn. It was created to complement this medium blog post: [From ML Model to ML Pipeline](https://towardsdatascience.com/from-ml-model-to-ml-pipeline-9f95c32c6512). 
 
 ***
 ### Other related blog posts 👀
@@ -8,7 +8,7 @@ This repository contains small example use-case of ML Pipeline using Scikit-Lear
     * [FeatureUnion, ColumnTransformer & Pipeline for preprocessing text data](https://towardsdatascience.com/featureunion-columntransformer-pipeline-for-preprocessing-text-data-9dcb233dbcb6)
 
 - [ ] **Custom transformers**
-    * [Two ways to create custom transformers with Scikit-learn](ADDHYPERLINK)
+    * [Two ways to create custom transformers with Scikit-learn](https://towardsdatascience.com/two-ways-to-create-custom-transformers-with-scikit-learn-b9089acacd37)
 
 * [ ] **Feature selection**
     * [Feature Selection in Scikit-learn](https://towardsdatascience.com/feature-selection-in-scikit-learn-dc005dcf38b7)
