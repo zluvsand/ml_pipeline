@@ -3,7 +3,7 @@ This repository contains small example use-case of ML Pipeline using Scikit-Lear
 
 ***
 ### Other related blog posts 👀
-- [ ] **Pipeline**
+#### Pipeline
 
 <a href="https://towardsdatascience.com/pipeline-columntransformer-and-featureunion-explained-f5491f815f">
 <img src="https://img.shields.io/badge/PIPELINE, COLUMNTRANSFORMER AND FEATUREUNION EXPLAINED-12100E?logo=medium&color=000&logoColor=white" />
@@ -13,14 +13,12 @@ This repository contains small example use-case of ML Pipeline using Scikit-Lear
 <img src="https://img.shields.io/badge/FEATUREUNION, COLUMNTRANSFORMER & PIPELINE FOR PREPROCESSING TEXT DATA-12100E?logo=medium&color=000&logoColor=white" />
 </a>
 
-- [ ] **Custom transformers**
+#### Custom transformers
 <a href="https://towardsdatascience.com/two-ways-to-create-custom-transformers-with-scikit-learn-b9089acacd37">
-<img src="https://img.shields.io/badge/TWO WAYS TO CREATE CUSTOM TRANSFORMERS WITH SCIKIT-LEARN-12100E?logo=medium&color=000&logoColor=white" />
+<img src="https://img.shields.io/badge/TWO WAYS TO CREATE CUSTOM TRANSFORMERS WITH SCIKIT LEARN-12100E?logo=medium&color=000&logoColor=white" />
 </a>
 
-* [ ] **Feature selection**
+#### Feature selection
 <a href="https://towardsdatascience.com/feature-selection-in-scikit-learn-dc005dcf38b7">
-<img src="https://img.shields.io/badge/FEATURE SELECTION IN SCIKIT-LEARN-12100E?logo=medium&color=000&logoColor=white" />
+<img src="https://img.shields.io/badge/FEATURE SELECTION IN SCIKIT LEARN-12100E?logo=medium&color=000&logoColor=white" />
 </a>
-
-
