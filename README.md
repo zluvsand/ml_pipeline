@@ -4,11 +4,23 @@ This repository contains small example use-case of ML Pipeline using Scikit-Lear
 ***
 ### Other related blog posts 👀
 - [ ] **Pipeline**
-    * [Pipeline, ColumnTransformer and FeatureUnion explained](https://towardsdatascience.com/pipeline-columntransformer-and-featureunion-explained-f5491f815f)
-    * [FeatureUnion, ColumnTransformer & Pipeline for preprocessing text data](https://towardsdatascience.com/featureunion-columntransformer-pipeline-for-preprocessing-text-data-9dcb233dbcb6)
+
+<a href="https://towardsdatascience.com/pipeline-columntransformer-and-featureunion-explained-f5491f815f">
+<img src="https://img.shields.io/badge/PIPELINE, COLUMNTRANSFORMER AND FEATUREUNION EXPLAINED-12100E?logo=medium&color=000&logoColor=white" />
+</a>
+
+<a href="https://towardsdatascience.com/featureunion-columntransformer-pipeline-for-preprocessing-text-data-9dcb233dbcb6">
+<img src="https://img.shields.io/badge/FEATUREUNION, COLUMNTRANSFORMER & PIPELINE FOR PREPROCESSING TEXT DATA-12100E?logo=medium&color=000&logoColor=white" />
+</a>
 
 - [ ] **Custom transformers**
-    * [Two ways to create custom transformers with Scikit-learn](https://towardsdatascience.com/two-ways-to-create-custom-transformers-with-scikit-learn-b9089acacd37)
+<a href="https://towardsdatascience.com/two-ways-to-create-custom-transformers-with-scikit-learn-b9089acacd37">
+<img src="https://img.shields.io/badge/TWO WAYS TO CREATE CUSTOM TRANSFORMERS WITH SCIKIT-LEARN-12100E?logo=medium&color=000&logoColor=white" />
+</a>
 
 * [ ] **Feature selection**
-    * [Feature Selection in Scikit-learn](https://towardsdatascience.com/feature-selection-in-scikit-learn-dc005dcf38b7)
+<a href="https://towardsdatascience.com/feature-selection-in-scikit-learn-dc005dcf38b7">
+<img src="https://img.shields.io/badge/FEATURE SELECTION IN SCIKIT-LEARN-12100E?logo=medium&color=000&logoColor=white" />
+</a>
+
+
